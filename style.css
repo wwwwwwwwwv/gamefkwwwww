@@ -18,6 +18,10 @@ header {
   justify-content: space-between;
   padding: 50px;
 }
+header img:hover {
+  transition: 1.2s;
+  transform: rotate(360deg);
+}
 header input {
   text-decoration: none;
   border: none;
